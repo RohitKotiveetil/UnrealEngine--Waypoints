@@ -5,4 +5,4 @@ Waypoint Generation System created using blueprints in Unreal Engine v4.21.
 
 **Preview video:** https://www.youtube.com/watch?v=LgHrSM3WEiw
 
-**This project is licensed under the Unreal Engine 4 EULA.**
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
