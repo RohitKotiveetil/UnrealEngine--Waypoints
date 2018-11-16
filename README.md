@@ -1,5 +1,8 @@
 # UnrealEngine--WaypointGenerator
-Waypoint Generation System created using blueprints in Unreal Engine v4.21.
+A blueprint module for visualizing navigational paths in Unreal Engine v4.21. 
+
+**Notes:**
+- Path points are generated using UE4's navmesh, while Instanced Static Meshes are used to visualize Waypoints.
 
 **Design Process:** https://unrealpossibilities.blogspot.com/2018/06/unreal-engine-experiments-waypoint.html
 
