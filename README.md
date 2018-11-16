@@ -5,7 +5,7 @@ A blueprint module for visualizing navigational paths in Unreal Engine v4.21.
 
 **Preview video:** https://www.youtube.com/watch?v=LgHrSM3WEiw
 
-**Notes:**
+## Notes:
 - Path points are generated using UE4's navmesh, while Instanced Static Meshes are used to visualize Waypoints.
 
 
