@@ -1,5 +1,5 @@
 # UnrealEngine--WaypointGenerator
-A blueprint module for visualizing navigational paths in Unreal Engine v4.21. Now also supports path updates at runtime based on player/objective locations.
+A blueprint module for visualizing navigational paths in Unreal Engine v4.22. As of v1.2, the system also supports path updates at runtime based on player/objective locations.
 
 **Design Process:** https://unrealpossibilities.blogspot.com/2018/06/unreal-engine-experiments-waypoint.html
 
