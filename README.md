@@ -5,6 +5,8 @@ A blueprint module for visualizing navigational paths in Unreal Engine v4.22. As
 
 **Preview video:** https://www.youtube.com/watch?v=LgHrSM3WEiw
 
+**Integration Tutorial:** https://www.youtube.com/watch?v=2XQupaI4gbQ
+
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
 
 ## Notes:
