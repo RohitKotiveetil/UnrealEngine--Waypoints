@@ -6,7 +6,7 @@ A blueprint module for visualizing navigational paths in Unreal Engine v4.22.
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
 
 ## Notes:
-- Path points generated UE4's nav mesh queries.
+- Path points generated through UE4's nav mesh queries.
 - Instanced Static Meshes used to display waypoints.
 
 ## Limitations:
