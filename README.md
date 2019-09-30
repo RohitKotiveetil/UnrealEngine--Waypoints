@@ -7,3 +7,7 @@ A blueprint module for visualizing navigational paths in Unreal Engine v4.22.
 
 ## Notes:
 - The Instanced Static Meshes used for path visualization are reused during each update cycle, adding new ones and removing excess instances only when necessary. Even so, it basically comes down to the addition of at most one instanced mesh per several update cycles, while all existing instances just require transform updates.
+
+## Limitations:
+- Does not support parallel alignment (pitch/roll) of waypoint meshes along inclined surfaces.
+- Does not support dynamic path updates based on continuously changing player/objective locations.
